@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Say hello
         run: |
-          echo "Hello Pull Request and Actions!"
+          echo "Hello Pull Request and Actions required!"
       - name: Now it is
         run: |
           date
